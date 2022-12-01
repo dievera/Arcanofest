@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    color: black;
+}
+
+.menu {
+    display:flex;
+    justify-content: space-between;
+    background: black;
+}
+
+.logo {
+    display: flex;
+    top: 50%;
+}
+
+.imagen-nav {
+    width: 7.5rem;
+    height: 20%;
+}
+
+.menu-responsive {
+    display: flex;
+    top: 1.5rem;
+    right: 3%;
+    position: absolute;
+}
+
+.opmenu {
+    display: flex;
+    top: 1rem;
+    right: 2%;
+    justify-content: flex-end;
+    padding-right: 1rem;
+}
+
+#responsive-navbar-nav {
+    text-align: center;
+}
+
+@media screen and (max-width: 991.5px) {
+    .opmenu {
+        display: flex;
+        top: 1rem;
+        right: 2%;
+        justify-content: flex-end;
+        flex-direction: column;
+    }
+  }

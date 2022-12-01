@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 2rem;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+h3{
+    color: black;
+}
+
+.promo {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 100%;
+    height: 40vh;
+    background-image: url(../imagenes/promo.png);
+    background-color: #333;
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: bottom;
+    display: grid;
+    place-items: center;
+    color: white;
+    align-content: center;
+    margin-bottom: 2rem;
+}
+
+.promo img { 
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+
+.promo h1{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 4rem;
+    padding-top: 4rem;
+    bottom: 0;
+}
+
+.promo h2{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 2rem;
+    bottom: 0;
+    padding: 0.5rem;
+}
+
+.promo h3{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 2rem;
+    bottom: 0;
+    padding: 0.5rem;
+}
+
+.background {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat, repeat;
+    background-color: black;
+    background-size:100%;
+    background-position:center;
+    bottom: 0;
+}
+
+.slider {
+    margin-bottom: 2rem;
+}
+
+
+.react-player {
+    position: relative;
+    padding-bottom: 56.25%; /* 16/9 ratio */
+    padding-top: 30px; /* IE6 workaround*/
+    height: 0;
+    }
+    
+    .react-player iframe,
+    .react-player object,
+    .react-player embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    }

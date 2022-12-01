@@ -1,0 +1,48 @@
+{"djs": [
+    {
+        "id": "6",
+        "nombre": "Tiesto",
+        "fecha": "08 de diciembre",
+        "hora": "19:00 hs.",
+        "descripcion":"-",
+        "valor":"2",
+        "imagen":"https://x.qualityradio.com.ar/wp-content/uploads/2020/09/tiesto.jpg"
+    },
+    {
+        "id": "7",
+        "nombre": "Martin Garrix",
+        "fecha": "08 de diciembre",
+        "hora": "20:00 hs.",
+        "descripcion":"-",
+        "valor":"2",
+        "imagen":"https://indiehoy.com/wp-content/uploads/2021/11/martin-garrix.jpg"
+    },
+    {
+        "id": "8",
+        "nombre": "Marshmello",
+        "fecha": "08 de diciembre",
+        "hora": "21:00 hs.",
+        "descripcion":"-",
+        "valor":"2",
+        "imagen":"https://akamai.sscdn.co/uploadfile/letras/fotos/a/9/9/9/a9990522b116c3ea361e420c935fc64d.jpg"
+    },
+    {
+        "id": "9",
+        "nombre": "Disclosure",
+        "fecha": "08 de diciembre",
+        "hora": "22:00 hs.",
+        "descripcion":"-",
+        "valor":"2",
+        "imagen":"https://www.billboard.com/wp-content/uploads/media/Disclosure-Simon-Emmett-bw-billboard-1548.jpg?w=1024"
+    },
+    {
+        "id": "10",
+        "nombre": "Steve Aoki",
+        "fecha": "08 de diciembre",
+        "hora": "23:00 hs.",
+        "descripcion":"-",
+        "valor":"2",
+        "imagen":"https://zone1-ibizaspotlightsl.netdna-ssl.com/sites/default/files/styles/auto_1500_width/public/article-images/137799/slideshow-1649417965.jpg"
+    }
+    ]
+}

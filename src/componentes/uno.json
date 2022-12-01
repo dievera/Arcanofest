@@ -1,0 +1,49 @@
+{"djs": [
+    {
+        "id": "1",
+        "nombre": "Daft Punk",
+        "fecha": "01 de diciembre",
+        "hora": "19:00 hs.",
+        "descripcion":"-",
+        "valor":"1",
+        "imagen":"https://media.ambito.com/p/1954b80fb99192c1996cd7d5cd62b90f/adjuntos/239/imagenes/038/564/0038564246/1200x675/smart/daft-punkjpg.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Justice",
+        "fecha": "01 de diciembre",
+        "hora": "20:00 hs.",
+        "descripcion":"-",
+        "valor":"1",
+        "imagen":"http://fmdelta903.com/images/stories/Noticias/Justice-2-3.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Fisher",
+        "fecha": "01 de diciembre",
+        "hora": "21:00 hs.",
+        "descripcion":"-",
+        "valor":"1",
+        "imagen":"https://beatnightmx.com/wp-content/uploads/2019/05/Fisher.jpg"
+    },
+    {
+        "id": "4",
+        "nombre": "Claptone",
+        "fecha": "01 de diciembre",
+        "hora": "22:00 hs.",
+        "descripcion":"-",
+        "valor":"1",
+        "imagen":"https://enagenda.com.ar/uploads/noticias/5/2022/06/10ecde56b5d60ba40d9b1863dfaa61ed1f07a8c0.jpg"
+    },
+    
+    {
+        "id": "5",
+        "nombre": "Chris Lake",
+        "fecha": "01 de diciembre",
+        "hora": "23:00 hs.",
+        "descripcion":"-",
+        "valor":"1",
+        "imagen":"https://i.ytimg.com/vi/Q6r0mt7HW9w/maxresdefault.jpg"
+    }
+    ]
+}
